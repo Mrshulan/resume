@@ -1,2 +1,4 @@
-# resume
-this is my resume
+# Resume
+
+![resume](http://qiniu.mrshulan.com/resume.jpg)
+
